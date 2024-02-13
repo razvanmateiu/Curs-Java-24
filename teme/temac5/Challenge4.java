@@ -17,11 +17,11 @@ public class Challenge4 {
                 x = ++x;
                 System.out.println(x);
             }
-        }
+
         while (x > 0) {
             x = --x;
             System.out.println(x);
         }
-
+        }
     }
 }

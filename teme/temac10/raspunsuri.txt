@@ -1,0 +1,7 @@
+Ce inseamna o clasa? Ce inseamna o metoda/proprietate/ un constructor?(notam intr-un fisier .txt aceste raspunsuri)
+
+1. Clasa este un "blueprint" pentru a creaa obiecte cu proprietatile si comportamentele definite pentru clasa respectiva.
+2. Metoda poate fi definita ca un comportament a obiectelor definite de clasa respectiva.
+3. Proprietatile unui obiect sunt definite de clasa obiectului respectiv ce pot fi atribuite/accesate. Prin proprietatile respective
+se diferentiaza obiectele facute din aceeasi clasa.
+4. Un contructor pentru o clasa este defpat o metoda care ajuta la creearea obiectelor respective clasei definite.

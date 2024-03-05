@@ -34,4 +34,16 @@ public class Floare {
         System.out.println("Metoda nu returneaza nimic");
     }
 
+    /**
+     * Getter & Setter
+     */
+
+    int getNumarPetale() {
+        return nrPetale;
+    }
+
+    void setNrPetale(int nrPetaleParametru) {
+        this.nrPetale = nrPetaleParametru;
+    }
+
 }

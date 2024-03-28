@@ -11,6 +11,8 @@ public class Challenge7S06 {
         System.out.println(input.indexOf("a"));
         System.out.println(input.indexOf("o"));
 
+
+
     }
 
 

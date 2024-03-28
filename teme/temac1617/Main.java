@@ -19,6 +19,7 @@ public class Main {
         List<Recipe> recipesWithMilk = new ArrayList<>();
         Recipe recipe1 = new Recipe("prajitura", null);
         if (recipe1.hasIngredient("milk")) recipesWithMilk.add(recipe1);
+        recipe1.addRecipe(recipe1);
 
     }
 }
